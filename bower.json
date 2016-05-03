@@ -1,0 +1,14 @@
+{
+  "name": "open-weather-app",
+  "authors": [
+    "somethingsaid <kwong.billy@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "http://somethingsaid.github.io/profile",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-route": "^1.5.5"
+  }
+}
